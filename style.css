@@ -1,0 +1,32 @@
+.container{
+    background-color:#FFB88C;
+}
+
+.terms{
+    background-color:#D6A4A4;
+}
+
+#button{
+    position:relative;
+    left:500px;
+    bottom:20px;
+}
+
+#thankyou{
+    position: relative;
+    top: 100px;
+    left :400px;
+}
+
+.design{
+    transition: all 3s ease-out;
+    text-align: center;
+}
+
+img{
+    position: absolute;
+    width: 200px;
+    height:200px;
+    top: 200px;
+    left :700px;
+}
