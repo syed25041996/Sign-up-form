@@ -7,4 +7,6 @@ thankyou.php -> when the user successfully registers it is directed to          
 
 * The interface used to manage the database is myphpadmin
 
-* I shall seperately attach the screenshots and send it
+* I shall seperately attach the screenshots 
+
+* Security features haven't been added. I decided to make the code simple. You can add those features if its needed by you.
